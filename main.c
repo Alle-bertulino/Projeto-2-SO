@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-// Camprox da tabela de páginas
+//Camprox da tabela de páginas
 #define PT_FIELDS 6           // 4 camprox na tabela
 #define PT_FRAMEID 0          // Endereço da memória física
 #define PT_MAPPED 1           // Endereço presente na tabela
