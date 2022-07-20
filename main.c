@@ -4,8 +4,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-//Camprox da tabela de páginas
-#define PT_FIELDS 6           // 4 camprox na tabela
+//Campos da tabela de páginas
+#define PT_FIELDS 6           // 4 campos na tabela
 #define PT_FRAMEID 0          // Endereço da memória física
 #define PT_MAPPED 1           // Endereço presente na tabela
 #define PT_DIRTY 2            // Página dirty
@@ -25,7 +25,7 @@ typedef struct {
     void *function;
 } paging_policy_t;
 
-// Codifique as reproxições a partir daqui!
+// Codifique as reposições a partir daqui!
 // Cada método abaixo retorna uma página para ser trocada. Note também
 // que cada algoritmo recebe:
 // - A tabela de páginas
