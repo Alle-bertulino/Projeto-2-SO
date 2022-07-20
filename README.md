@@ -13,14 +13,17 @@
  - Aprimorar as capacidades de programação em Linguagem C.
 
 **Descrição do projeto:**
+
 No projeto através de uma implementação de gerenciamento de memória, deverá ser feito alguns algoritmos de substituição de página e fazer a comparação de falta de páginas com o algoritmo Random, esses algoritmos são:
 -   FIFO;
 -   FIFO + Bit R (Segunda Chance);
 -   NRU;
 -   Aging (Envelhecimento);
  
+
 **Executando o projeto:**
+
 Para compilação do programa em Linux, basta executar as seguintes linhas de código no terminal:
 
-**$ gcc -Wall main.c -o main
-$ ./main random 10 < anomaly.dat**
+**$ gcc -Wall main.c -o main** 
+**$ ./main random 10 < anomaly.dat**
