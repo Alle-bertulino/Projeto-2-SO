@@ -25,5 +25,7 @@ No projeto através de uma implementação de gerenciamento de memória, deverá
 
 Para compilação do programa em Linux, basta executar as seguintes linhas de código no terminal:
 
-**$ gcc -Wall main.c -o main** 
+**$ gcc -Wall main.c -o main**
+
 **$ ./main random 10 < anomaly.dat**
+
