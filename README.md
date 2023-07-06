@@ -4,7 +4,6 @@
 
  - Alexandre Bertulino dos Santos Junior
  - 6029
- - Link do repositório no GitHub: [Alle-bertulino/Projeto-2-SO (github.com)](https://github.com/Alle-bertulino/Projeto-2-SO)
 
 ## Objetivos
 
